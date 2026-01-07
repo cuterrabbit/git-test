@@ -36,7 +36,7 @@
 - 🛠 **FISA Project**: [우리 FISA 클라우드 프로젝트 저장소 링크]
 - 📝 **Technical Blog**: [티스토리/벨로그 등 링크]
 - 👔 **LinkedIn**: [linkedin.com/in/본인ID]
-- 📧 **Contact**: [your-email@gmail.com]
+- 📧 **Contact**: ledw8992@naver.com
 
 ---
 
