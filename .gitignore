@@ -1,0 +1,2 @@
+.env
+#.gitignore에 적혀있는 파일은 git에서 추적을 무시함
